@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    <title>Luciana Jannina Yañez Revilla</title>
+
+    <style>
+        h1{font-family: Arial}
+        h1{color:rgb(118, 46, 163)}
+        h2{font-family: Arial}
+        h2{color: hwb(278 21% 21%);}
+        h3{font-family: Arial}
+        p{font-family: Arial}
+        li{font-family: Arial}
+    </style>
+</head>
+<body bgcolor="#ebe6e6">
+    <h1 style="text-align: center;">Luciana Jannina Yañez Revilla</h1>
+    <h2>Un poco acerca de mi</h2>
+    <p>Hola! Me llamo Luciana, tengo 18 años y nací el 21 de febrero de 2006 en Arequipa, Perú. Salí del colegio en el 2022 y actualmente estoy estudiando la carrera de Administración de Negocios en la Universidad Católica San Pablo, una carrera que me permite poner a prueba todas mis habilidades.</p>
+        <p>Soy una persona solidaria, un poco tímida, pero me encanta hacer reír a los demás. Me considero una persona ordenada, creativa, responsable, empática, alegre y divertida.</p>
+        <p style="text-align: center;text-align: justify;">En mi tiempo libre me gusta pasar el tiempo con amigas y familia, dormir y ver películas y series.</p>
+
+        <h2>Mis cursos</h2>
+        <p>Durante mi carrera, he cursado materias importantes que me han ayudado en el ámbito empresarial. Algunas de ellas son:</p>
+        <h3>Primer semestre</h3>
+
+        <ul>
+            <li>Metodología del estudio</li>
+            <li>Introducción a la vida universitaria</li>
+            <li>Comunicación I</li>
+            <li>Matemática básica</li>
+            <li>Fundamentos de administración</li>
+            <li>Contabilidad para administradores</li>
+            <li>Economía general</li>
+        </ul>
+        <h3>Segundo semestre</h3>
+
+        <ul>
+            <li>Comunicación II</li>
+            <li>Pensamiento crítico e innovación con <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b/?originalSubdomain=">Ana Gómez Burns</a></li>
+            <li>Introducción a la filosofía</li>
+            <li>Álgebra y geometría</li>
+            <li>Fundamentos de marketing con <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b/?originalSubdomain=">Ana Gómez Burns</a></li>
+            <li>Derecho empresarial</li>
+
+        </ul>
+        <h3>Tercer semestre</h3>
+
+        <ul>
+            <li>Cálculo en una variable</li>
+            <li>Teatro</li>
+            <li>Comportamiento del cosumidor</li>
+            <li>Antropología filosófica y teológica</li>
+            <li>Análisis financiero con <a href="https://www.linkedin.com/in/lelia-rubina-27939889/?originalSubdomain=pe">Lelia Rubina</a></li>
+            <li>Apreciación literaria</li>
+            <li>Lógica</li>
+        </ul>
+        <h3>Cuarto semstre</h3>
+
+        <ul>
+            <li>Introducción a ciencias de la computación con <a href="https://www.linkedin.com/in/ecuadrosv/?originalSubdomain=pe">Ernesto Cuadros-Vargas</a></li>
+            <li>Historia de la cultura occidental I</li>
+            <li>Costos y planeamiento presupuestal</li>
+            <li>Desarrollo de habilidades para el trabajo en equipo</li>
+            <li>Matemáticas financieras</li>
+            <li>Gnoseología</li>
+            <li>Teología</li>
+
+        </ul>
+
+        <h2>Mis amigos</h2>
+        <p>En la universidad he conocido a muchas personas que se han convertido en mis amigos. Con cada uno de ellos he creado recuerdos únicos y he vivido experiencias que siempre recordaré con cariño. Entre ellas estan:</p>
+
+        <ul>
+            <li><a href="https://myabroders.netlify.app/">Mya Broders</a></li>
+            <li><a href="https://valeria-alcazar-esquivel.netlify.app/">Val Alcazar</a></li>
+            <li><a href="https://solgranda.netlify.app/">Sol Granda</a></li>
+            <li><a href="https://rafaelatejadaramirez.netlify.app/">Rafa Tejada</a></li>
+            <li><a href="">Ana Lu Chirinos</a></li>
+        </ul>
+
+</body>
+</html>
